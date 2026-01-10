@@ -40,6 +40,8 @@ private:
 
 	void Jump();
 
+	void Shoot();
+
 	void LookUpRate(float AxisValue);
 	void LookRightRate(float AxisValue);
 
